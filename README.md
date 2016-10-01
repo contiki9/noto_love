@@ -2,7 +2,7 @@
 
 # デモサイト
 
-* [Samle](https://contiki9.github.io/noto_love/sample/)
+* [Sample](https://contiki9.github.io/noto_love/sample/)
 * [日本語版](https://contiki9.github.io/noto_love/ja/)
 * [中国語版(簡体字)](https://contiki9.github.io/noto_love/sc/)
 * [韓国語版](https://contiki9.github.io/noto_love/kr/)
