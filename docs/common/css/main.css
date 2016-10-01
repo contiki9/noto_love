@@ -105,13 +105,13 @@ textarea {
 }
 
 .noto-jp {
-    font-family: 'Noto Sans Japanese';
+    font-family: 'Noto Sans Japanese' !important;
 }
 .noto-kr {
-    font-family: 'Noto Sans KR';
+    font-family: 'Noto Sans KR'!important;
 }
 .noto-sc {
-    font-family: 'Noto Sans SC';
+    font-family: 'Noto Sans SC'!important;
 }
 .sans-serif{
     font-family: 'sans-serif';
